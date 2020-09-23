@@ -1,0 +1,5 @@
+name: blocks_src
+
+dependencies:
+  objd:
+    path: C:\dev\Dart\objectiveD
